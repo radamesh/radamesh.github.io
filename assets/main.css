@@ -1,3 +1,8 @@
 * {
     text-align: center;
+    background-color: #25383C;
+}
+
+h1, h2, p {
+	color: whitesmoke;
 }
