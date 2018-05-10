@@ -1,8 +1,17 @@
-* {
-    text-align: center;
-    background-color: #25383C;
+body {
+    /* text-align: center; */
+    /* background-color: #25383C; */
+    background-color: #010101;
 }
 
-h1, h2, p {
-	color: whitesmoke;
+h1 {
+  color: #00a8e2;
+  font-size: 0.75em;
+  line-height: 1em;
+}
+
+
+h2, p {
+    /* color: whitesmoke; */
+    color: #00a8e2;
 }
